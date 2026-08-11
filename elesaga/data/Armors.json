@@ -1,0 +1,1633 @@
+[
+  null,
+  {
+    "id": 1,
+    "atypeId": 5,
+    "description": "A small, light shield. Rather than blocking\nenemy attacks, it's meant to deflect\nthem. Slightly raises defense and evasion.",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.08
+      }
+    ],
+    "iconIndex": 129,
+    "name": "Buckler",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      3,
+      0,
+      0
+    ],
+    "price": 200
+  },
+  {
+    "id": 2,
+    "atypeId": 5,
+    "description": "A small, light shield. Rather than blocking\nenemy attacks, it's meant to deflect\nthem. Slightly raises defense and evasion.",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.1
+      }
+    ],
+    "iconIndex": 129,
+    "name": "Buckler (Fine)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      6,
+      0,
+      6,
+      0,
+      0
+    ],
+    "price": 1000
+  },
+  {
+    "id": 3,
+    "atypeId": 5,
+    "description": "A small, light shield. Rather than blocking\nenemy attacks, it's meant to deflect\nthem. Slightly raises defense and evasion.",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.12
+      }
+    ],
+    "iconIndex": 129,
+    "name": "Buckler (Masterwork)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      10,
+      0,
+      10,
+      0,
+      0
+    ],
+    "price": 2000
+  },
+  {
+    "id": 4,
+    "atypeId": 6,
+    "description": "An iron shield that fully blocks slashes and arrows,\nand stops heavy blows to a degree. Raises defense\nand slightly raises evasion, but lowers agility.",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.04
+      }
+    ],
+    "iconIndex": 128,
+    "name": "Iron Shield",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      10,
+      0,
+      10,
+      -2,
+      0
+    ],
+    "price": 400
+  },
+  {
+    "id": 5,
+    "atypeId": 6,
+    "description": "An iron shield that fully blocks slashes and arrows,\nand stops heavy blows to a degree. Raises defense\nand slightly raises evasion, but lowers agility.",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.04
+      }
+    ],
+    "iconIndex": 128,
+    "name": "Iron Shield (Fine)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      18,
+      0,
+      18,
+      -3,
+      0
+    ],
+    "price": 1200
+  },
+  {
+    "id": 6,
+    "atypeId": 6,
+    "description": "An iron shield that fully blocks slashes and arrows,\nand stops heavy blows to a degree. Raises defense\nand slightly raises evasion, but lowers agility.",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.04
+      }
+    ],
+    "iconIndex": 128,
+    "name": "Iron Shield (Masterwork)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      26,
+      0,
+      26,
+      -4,
+      0
+    ],
+    "price": 2400
+  },
+  {
+    "id": 7,
+    "atypeId": 1,
+    "description": "Worn mainly by Windam Kingdom soldiers in posts that\ndon't require heavy armor. Light, yet sturdily made.",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 135,
+    "name": "Leather Coat",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 100
+  },
+  {
+    "id": 8,
+    "atypeId": 1,
+    "description": "Fine clothing worn by many citizens of the Flame\nKingdom as everyday wear. Both breathable and durable.",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 135,
+    "name": "Silk Robe",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0
+    ],
+    "price": 250
+  },
+  {
+    "id": 9,
+    "atypeId": 1,
+    "description": "A full set of clothing worn by the people of\nSeiryu when setting out on long journeys. Easy to\nmove in, and excellent at keeping out the cold.",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 135,
+    "name": "Traveling Garb",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      2,
+      0
+    ],
+    "price": 60
+  },
+  {
+    "id": 10,
+    "atypeId": 3,
+    "description": "Light combat armor woven from fine chain. The\nmost common armor, balancing lightness with\nresistance to slashes. Slightly lowers agility.",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 139,
+    "name": "Chain Mail",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      16,
+      0,
+      16,
+      -3,
+      0
+    ],
+    "price": 500
+  },
+  {
+    "id": 11,
+    "atypeId": 3,
+    "description": "Light combat armor woven from fine chain. The\nmost common armor, balancing lightness with\nresistance to slashes. Slightly lowers agility.",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 139,
+    "name": "Chain Mail (Fine)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      25,
+      0,
+      25,
+      -3,
+      0
+    ],
+    "price": 900
+  },
+  {
+    "id": 12,
+    "atypeId": 3,
+    "description": "Light combat armor woven from fine chain.\nThe most common armor, balancing lightness\nwith resistance to slashes. Lowers agility.",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 139,
+    "name": "Chain Mail (Masterwork)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      36,
+      0,
+      36,
+      -5,
+      0
+    ],
+    "price": 2000
+  },
+  {
+    "id": 13,
+    "atypeId": 4,
+    "description": "Full-body armor covering every inch\nof the body in metal. Very expensive,\nand its weight greatly lowers agility.",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 137,
+    "name": "Plate Mail",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      32,
+      0,
+      10,
+      -9,
+      0
+    ],
+    "price": 1500
+  },
+  {
+    "id": 14,
+    "atypeId": 4,
+    "description": "Full-body armor covering every inch\nof the body in metal. Very expensive,\nand its weight greatly lowers agility.",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 137,
+    "name": "Plate Mail (Fine)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      43,
+      0,
+      10,
+      -12,
+      0
+    ],
+    "price": 2500
+  },
+  {
+    "id": 15,
+    "atypeId": 4,
+    "description": "Full-body armor covering every inch\nof the body in metal. Very expensive,\nand its weight greatly lowers agility.",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 137,
+    "name": "Plate Mail (Masterwork)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      55,
+      0,
+      10,
+      -20,
+      0
+    ],
+    "price": 4500
+  },
+  {
+    "id": 16,
+    "atypeId": 1,
+    "description": "A magnificent cape issued only to knights of\nthe Windam Knight Order. It's said to hold the\npower of wind, though the truth is unclear.",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 139,
+    "name": "Knight's Cape",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      3,
+      0
+    ],
+    "price": 1500
+  },
+  {
+    "id": 17,
+    "atypeId": 1,
+    "description": "A bandana made from the sash worn by the\nFlame Kingdom's prince, said to have died\nyoung. To Hono, it's her brother's keepsake.",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 53,
+        "dataId": 3,
+        "value": 1
+      }
+    ],
+    "iconIndex": 150,
+    "name": "Homura's Bandana",
+    "note": "",
+    "params": [
+      0,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      5
+    ],
+    "price": 600
+  },
+  {
+    "id": 18,
+    "atypeId": 1,
+    "description": "A legendary robe handed down in Seiryu since\nancient times to the inheritor of the Water\nCrest. Said to have been granted by a dragon.",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 53,
+        "dataId": 3,
+        "value": 1
+      }
+    ],
+    "iconIndex": 132,
+    "name": "Clear Stream Scarf",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      5,
+      0,
+      5,
+      0,
+      0
+    ],
+    "price": 1500
+  },
+  {
+    "id": 19,
+    "atypeId": 1,
+    "description": "A magnificent cape issued only to the Windam\nKnight Captain. It's said to hold the\npower of wind, though the truth is unclear.",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 139,
+    "name": "Knight Captain's Cape",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      5,
+      0,
+      5,
+      5,
+      0
+    ],
+    "price": 1500
+  },
+  {
+    "id": 20,
+    "atypeId": 5,
+    "description": "A small, light shield. Rather than blocking\nenemy attacks, it's meant to deflect\nthem. Slightly raises defense and evasion.",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.18
+      }
+    ],
+    "iconIndex": 129,
+    "name": "Buckler (Master's)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      14,
+      0,
+      14,
+      0,
+      0
+    ],
+    "price": 4000
+  },
+  {
+    "id": 21,
+    "atypeId": 6,
+    "description": "An iron shield that fully blocks slashes and arrows,\nand stops heavy blows to a degree. Raises defense\nand slightly raises evasion, but lowers agility.",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 128,
+    "name": "Iron Shield (Master's)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      32,
+      0,
+      32,
+      -6,
+      0
+    ],
+    "price": 5000
+  },
+  {
+    "id": 22,
+    "atypeId": 3,
+    "description": "Light combat armor woven from fine chain.\nThe most common armor, balancing lightness\nwith resistance to slashes. Lowers agility.",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 139,
+    "name": "Chain Mail (Master's)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      45,
+      0,
+      45,
+      -7,
+      0
+    ],
+    "price": 5500
+  },
+  {
+    "id": 23,
+    "atypeId": 4,
+    "description": "Full-body armor covering every inch\nof the body in metal. Very expensive,\nand its weight greatly lowers agility.",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 137,
+    "name": "Plate Mail (Master's)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      70,
+      0,
+      16,
+      -30,
+      0
+    ],
+    "price": 8000
+  },
+  {
+    "id": 24,
+    "atypeId": 5,
+    "description": "A shield imbued with magical power. Slightly raises\ndefense and evasion, and greatly raises magic defense.",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.12
+      }
+    ],
+    "iconIndex": 128,
+    "name": "Elemental Shield",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      20,
+      0,
+      80,
+      0,
+      0
+    ],
+    "price": 9000
+  },
+  {
+    "id": 25,
+    "atypeId": 7,
+    "description": "Full-body armor covering every inch of the body in\nmetal. A magnificent, sturdy suit unseen even in\nother nations, let alone the knight orders. Win only.",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 137,
+    "name": "Knight Mail",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      99,
+      0,
+      24,
+      -20,
+      0
+    ],
+    "price": 12000
+  },
+  {
+    "id": 26,
+    "atypeId": 8,
+    "description": "A legendary suit of Flame armor said to have\nbelonged to the first King Flame. Light and easy to\nmove in, yet every vital is protected. Hono only.",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.02
+      }
+    ],
+    "iconIndex": 139,
+    "name": "Berserker Armor",
+    "note": "",
+    "params": [
+      0,
+      0,
+      10,
+      70,
+      0,
+      50,
+      0,
+      0
+    ],
+    "price": 8000
+  },
+  {
+    "id": 27,
+    "atypeId": 9,
+    "description": "A beautiful suit of armor with a design never\nseen before. Ornate yet light, and stoutly\nbuilt. Slightly lowers agility. Nagare only.",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 137,
+    "name": "Samurai Armor",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      80,
+      0,
+      40,
+      -10,
+      0
+    ],
+    "price": 15000
+  },
+  {
+    "id": 28,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 29,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 30,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 31,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 32,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 33,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 34,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 35,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 36,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 37,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 38,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 39,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 40,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 41,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 42,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 43,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 44,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 45,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 46,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 47,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 48,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 49,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 50,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 51,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 52,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 53,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 54,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 55,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 56,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 57,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 58,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 59,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 60,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  }
+]

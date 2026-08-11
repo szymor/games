@@ -1,0 +1,1192 @@
+[
+  null,
+  {
+    "id": 1,
+    "battlerName": "Actor2_1",
+    "characterIndex": 0,
+    "characterName": "Actor2",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      16,
+      7
+    ],
+    "faceIndex": 0,
+    "faceName": "winFACE",
+    "traits": [
+      {
+        "code": 51,
+        "dataId": 7,
+        "value": 1
+      }
+    ],
+    "initialLevel": 3,
+    "maxLevel": 99,
+    "name": "Win",
+    "nickname": "Young Knight",
+    "note": "",
+    "profile": "Of common birth; his parents worked hard to send him to\nacademy, where he graduated top of his class."
+  },
+  {
+    "id": 2,
+    "battlerName": "Actor1_3",
+    "characterIndex": 2,
+    "characterName": "Actor1",
+    "classId": 4,
+    "equips": [
+      4,
+      1,
+      17,
+      8
+    ],
+    "faceIndex": 2,
+    "faceName": "Actor1",
+    "traits": [
+      {
+        "code": 51,
+        "dataId": 7,
+        "value": 1
+      }
+    ],
+    "initialLevel": 6,
+    "maxLevel": 99,
+    "name": "Hono",
+    "nickname": "Prince of the Flame Kingdom",
+    "note": "",
+    "profile": "Second prince of Flame, king after his brother's death.\nBold and free-spirited; he prefers the sword to books."
+  },
+  {
+    "id": 3,
+    "battlerName": "nagarebattle",
+    "characterIndex": 0,
+    "characterName": "nagarewark",
+    "classId": 9,
+    "equips": [
+      8,
+      0,
+      18,
+      9
+    ],
+    "faceIndex": 0,
+    "faceName": "nagareface",
+    "traits": [
+      {
+        "code": 51,
+        "dataId": 7,
+        "value": 1
+      }
+    ],
+    "initialLevel": 8,
+    "maxLevel": 99,
+    "name": "Nagare",
+    "nickname": "Young Head of Seiryu",
+    "note": "",
+    "profile": "Daughter of Seiryu's lord, raised on mischief with the\nvillagers' brats. Brash, yet well-liked and popular."
+  },
+  {
+    "id": 4,
+    "battlerName": "Actor2_5",
+    "characterIndex": 4,
+    "characterName": "Actor2",
+    "classId": 2,
+    "equips": [
+      2,
+      2,
+      16,
+      7
+    ],
+    "faceIndex": 0,
+    "faceName": "pipinFACE",
+    "traits": [
+      {
+        "code": 43,
+        "dataId": 128,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 127,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1
+      }
+    ],
+    "initialLevel": 10,
+    "maxLevel": 99,
+    "name": "Pipin",
+    "nickname": "A Self-Proclaimed and Widely Acknowledged Genius Knight",
+    "note": "",
+    "profile": "A knight famed for genius intellect and swordsmanship.\nSome say he surpasses even the legendary knight Roi."
+  },
+  {
+    "id": 5,
+    "battlerName": "roibattle",
+    "characterIndex": 0,
+    "characterName": "roiwark",
+    "classId": 7,
+    "equips": [
+      11,
+      0,
+      0,
+      7,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "roiface",
+    "traits": [],
+    "initialLevel": 25,
+    "maxLevel": 99,
+    "name": "Roi",
+    "nickname": "Former Knight Captain",
+    "note": "",
+    "profile": "A man once famed as a genius knight across the kingdom.\nNow he lives in seclusion in his forest family home."
+  },
+  {
+    "id": 6,
+    "battlerName": "roiyoungbattle",
+    "characterIndex": 0,
+    "characterName": "roiyoungwark",
+    "classId": 3,
+    "equips": [
+      2,
+      2,
+      16,
+      11,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "roiyoungface",
+    "traits": [],
+    "initialLevel": 20,
+    "maxLevel": 99,
+    "name": "Roi",
+    "nickname": "A Young Knight Called a Genius",
+    "note": "",
+    "profile": "Young knight who inherited the Wind Crest from his\nfather. Genius intellect and swordsmanship besides."
+  },
+  {
+    "id": 7,
+    "battlerName": "Actor2_5",
+    "characterIndex": 4,
+    "characterName": "Actor2",
+    "classId": 6,
+    "equips": [
+      31,
+      6,
+      16,
+      12
+    ],
+    "faceIndex": 0,
+    "faceName": "pipinFACE",
+    "traits": [
+      {
+        "code": 43,
+        "dataId": 36,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 37,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 82,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 100,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 48,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 84,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 134,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 133,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 49,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 83,
+        "value": 1
+      },
+      {
+        "code": 21,
+        "dataId": 0,
+        "value": 1.2
+      }
+    ],
+    "initialLevel": 35,
+    "maxLevel": 99,
+    "name": "Pipin",
+    "nickname": "A Self-Proclaimed and Widely Acknowledged Genius Knight",
+    "note": "",
+    "profile": "A genius knight bearing the Fire and Water crests.\nHe faces the final battle with his former comrade Win."
+  },
+  {
+    "id": 8,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 3,
+    "equips": [
+      16,
+      1,
+      16,
+      10,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "winFACE",
+    "traits": [
+      {
+        "code": 43,
+        "dataId": 30,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 31,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 81,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 80,
+        "value": 1
+      }
+    ],
+    "initialLevel": 5,
+    "maxLevel": 99,
+    "name": "Win (Test)",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 9,
+    "battlerName": "Actor1_3",
+    "characterIndex": 2,
+    "characterName": "Actor1",
+    "classId": 4,
+    "equips": [
+      4,
+      1,
+      17,
+      8
+    ],
+    "faceIndex": 2,
+    "faceName": "Actor1",
+    "traits": [
+      {
+        "code": 62,
+        "dataId": 0,
+        "value": 1
+      }
+    ],
+    "initialLevel": 6,
+    "maxLevel": 99,
+    "name": "Hono",
+    "nickname": "Prince of the Flame Kingdom",
+    "note": "",
+    "profile": "Second prince of Flame, king after his brother's death.\nBold and free-spirited; he prefers the sword to books."
+  },
+  {
+    "id": 10,
+    "battlerName": "nagarebattle",
+    "characterIndex": 0,
+    "characterName": "nagarewark",
+    "classId": 5,
+    "equips": [
+      8,
+      0,
+      18,
+      11
+    ],
+    "faceIndex": 0,
+    "faceName": "nagareface",
+    "traits": [
+      {
+        "code": 43,
+        "dataId": 48,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 49,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 50,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 83,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 89,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 84,
+        "value": 1
+      }
+    ],
+    "initialLevel": 8,
+    "maxLevel": 99,
+    "name": "Nagare (Test)",
+    "nickname": "Young Head of Seiryu",
+    "note": "",
+    "profile": "Daughter of Seiryu's lord, raised on mischief with the\nvillagers' brats. Brash, yet well-liked and popular."
+  },
+  {
+    "id": 11,
+    "battlerName": "nagarebattle",
+    "characterIndex": 0,
+    "characterName": "nagarewark",
+    "classId": 9,
+    "equips": [
+      9,
+      0,
+      18,
+      12
+    ],
+    "faceIndex": 0,
+    "faceName": "nagareface",
+    "traits": [
+      {
+        "code": 62,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 44,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 31,
+        "dataId": 3,
+        "value": 1
+      },
+      {
+        "code": 23,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.33
+      }
+    ],
+    "initialLevel": 12,
+    "maxLevel": 99,
+    "name": "Nagare",
+    "nickname": "Only Daughter of Seiryu's Lord",
+    "note": "",
+    "profile": "Daughter of Seiryu's lord, raised on mischief with the\nvillagers' brats. Brash, yet well-liked and popular."
+  },
+  {
+    "id": 12,
+    "battlerName": "",
+    "characterIndex": 3,
+    "characterName": "Actor1",
+    "classId": 8,
+    "equips": [
+      7,
+      0,
+      0,
+      14,
+      0
+    ],
+    "faceIndex": 3,
+    "faceName": "Actor1",
+    "traits": [
+      {
+        "code": 62,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 44,
+        "dataId": 21,
+        "value": 1
+      }
+    ],
+    "initialLevel": 10,
+    "maxLevel": 99,
+    "name": "Torikaze",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 13,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "SF_Actor1",
+    "classId": 8,
+    "equips": [
+      7,
+      0,
+      0,
+      14,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "SF_Actor1",
+    "traits": [
+      {
+        "code": 62,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 44,
+        "dataId": 21,
+        "value": 1
+      }
+    ],
+    "initialLevel": 10,
+    "maxLevel": 99,
+    "name": "Mahari",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 14,
+    "battlerName": "Actor2_5",
+    "characterIndex": 4,
+    "characterName": "Actor2",
+    "classId": 2,
+    "equips": [
+      29,
+      3,
+      16,
+      12
+    ],
+    "faceIndex": 0,
+    "faceName": "pipinFACE",
+    "traits": [
+      {
+        "code": 62,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 2
+      },
+      {
+        "code": 44,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.5
+      },
+      {
+        "code": 43,
+        "dataId": 72,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 39,
+        "value": 1
+      },
+      {
+        "code": 53,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 53,
+        "dataId": 2,
+        "value": 1
+      },
+      {
+        "code": 53,
+        "dataId": 3,
+        "value": 1
+      },
+      {
+        "code": 53,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 21,
+        "dataId": 0,
+        "value": 1.2
+      },
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 1.2
+      }
+    ],
+    "initialLevel": 20,
+    "maxLevel": 99,
+    "name": "Pipin",
+    "nickname": "A Self-Proclaimed and Widely Acknowledged Genius Knight",
+    "note": "",
+    "profile": "A knight famed for genius intellect and swordsmanship.\nSome say he surpasses even the legendary knight Roi."
+  },
+  {
+    "id": 15,
+    "battlerName": "Actor1_3",
+    "characterIndex": 2,
+    "characterName": "Actor1",
+    "classId": 4,
+    "equips": [
+      4,
+      1,
+      17,
+      8
+    ],
+    "faceIndex": 2,
+    "faceName": "Actor1",
+    "traits": [
+      {
+        "code": 43,
+        "dataId": 36,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 37,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 82,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 100,
+        "value": 1
+      }
+    ],
+    "initialLevel": 23,
+    "maxLevel": 99,
+    "name": "Hono (Test, Final)",
+    "nickname": "Prince of the Flame Kingdom",
+    "note": "",
+    "profile": "Second prince of Flame, king after his brother's death.\nBold and free-spirited; he prefers the sword to books."
+  },
+  {
+    "id": 16,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "People3",
+    "classId": 10,
+    "equips": [
+      16,
+      4,
+      0,
+      7,
+      0
+    ],
+    "faceIndex": 7,
+    "faceName": "People3",
+    "traits": [],
+    "initialLevel": 5,
+    "maxLevel": 99,
+    "name": "Raymond",
+    "nickname": "Loves to Eat",
+    "note": "",
+    "profile": "A young soldier of great physique and spear skill;\nhis ever-growing appetite worries everyone."
+  },
+  {
+    "id": 17,
+    "battlerName": "roiyoungbattle",
+    "characterIndex": 0,
+    "characterName": "roiyoungwark",
+    "classId": 12,
+    "equips": [
+      26,
+      5,
+      16,
+      11,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "roiyoungface",
+    "traits": [],
+    "initialLevel": 25,
+    "maxLevel": 99,
+    "name": "Roi",
+    "nickname": "A Young Knight Called a Genius",
+    "note": "",
+    "profile": "Young knight who inherited the Wind Crest from his\nfather. Genius intellect and swordsmanship besides."
+  },
+  {
+    "id": 18,
+    "battlerName": "",
+    "characterIndex": 6,
+    "characterName": "People3",
+    "classId": 13,
+    "equips": [
+      27,
+      2,
+      16,
+      14
+    ],
+    "faceIndex": 6,
+    "faceName": "People3",
+    "traits": [],
+    "initialLevel": 25,
+    "maxLevel": 99,
+    "name": "Saxon",
+    "nickname": "Acting Commander of the Windam Knight Order",
+    "note": "",
+    "profile": "Of a house that long produced Windam Knight Commanders.\nA battle-hardened warrior who roamed the battlefields."
+  },
+  {
+    "id": 19,
+    "battlerName": "",
+    "characterIndex": 2,
+    "characterName": "Actor3",
+    "classId": 15,
+    "equips": [
+      23,
+      3,
+      0,
+      11
+    ],
+    "faceIndex": 2,
+    "faceName": "Actor3",
+    "traits": [],
+    "initialLevel": 25,
+    "maxLevel": 99,
+    "name": "King Flame",
+    "nickname": "King of the Flame Kingdom",
+    "note": "",
+    "profile": "King of the Flame Kingdom, a swordsman said to\nrival the legendary King Burn."
+  },
+  {
+    "id": 20,
+    "battlerName": "homuraSV",
+    "characterIndex": 0,
+    "characterName": "homuraWALK",
+    "classId": 16,
+    "equips": [
+      6,
+      0,
+      0,
+      8
+    ],
+    "faceIndex": 0,
+    "faceName": "homuraFACE",
+    "traits": [],
+    "initialLevel": 25,
+    "maxLevel": 99,
+    "name": "Homura",
+    "nickname": "Prince of the Flame Kingdom",
+    "note": "",
+    "profile": "First prince of Flame; no match for Hono in sword or\nbody, he instead possesses rare intellect and insight."
+  },
+  {
+    "id": 21,
+    "battlerName": "SF_Actor1_6",
+    "characterIndex": 5,
+    "characterName": "SF_Actor1",
+    "classId": 18,
+    "equips": [
+      9,
+      0,
+      18,
+      9
+    ],
+    "faceIndex": 5,
+    "faceName": "SF_Actor1",
+    "traits": [],
+    "initialLevel": 25,
+    "maxLevel": 99,
+    "name": "Shizuku",
+    "nickname": "Former Head of Seiryu",
+    "note": "",
+    "profile": "Daughter of Seiryu's lord, frail since childhood. She\ngrew up loving books and plants rather than the sword."
+  },
+  {
+    "id": 22,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "SF_People1",
+    "classId": 19,
+    "equips": [
+      24,
+      0,
+      18,
+      9
+    ],
+    "faceIndex": 5,
+    "faceName": "SF_Others",
+    "traits": [],
+    "initialLevel": 25,
+    "maxLevel": 99,
+    "name": "Otaki",
+    "nickname": "Elder of Seiryu",
+    "note": "",
+    "profile": "A former head of Seiryu. None know how long she has\nlived. Vast knowledge and extraordinary swordsmanship."
+  },
+  {
+    "id": 23,
+    "battlerName": "Actor2_5",
+    "characterIndex": 4,
+    "characterName": "Actor2",
+    "classId": 20,
+    "equips": [
+      3,
+      6,
+      16,
+      12
+    ],
+    "faceIndex": 4,
+    "faceName": "Actor2",
+    "traits": [],
+    "initialLevel": 30,
+    "maxLevel": 99,
+    "name": "Pipin",
+    "nickname": "A Self-Proclaimed and Widely Acknowledged Genius Knight",
+    "note": "",
+    "profile": "A knight famed for genius intellect and swordsmanship.\nSome say he surpasses even the legendary knight Roi."
+  },
+  {
+    "id": 24,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "Actor3",
+    "classId": 21,
+    "equips": [
+      3,
+      6,
+      16,
+      15
+    ],
+    "faceIndex": 0,
+    "faceName": "Actor3",
+    "traits": [],
+    "initialLevel": 30,
+    "maxLevel": 99,
+    "name": "King Windam",
+    "nickname": "King of the Windam Kingdom",
+    "note": "",
+    "profile": "King of Windam, martial arts master since childhood.\nHe demands rigorous training; his age is unknown."
+  },
+  {
+    "id": 25,
+    "battlerName": "",
+    "characterIndex": 3,
+    "characterName": "Actor1",
+    "classId": 22,
+    "equips": [
+      9,
+      6,
+      18,
+      9
+    ],
+    "faceIndex": 3,
+    "faceName": "Actor1",
+    "traits": [],
+    "initialLevel": 25,
+    "maxLevel": 99,
+    "name": "Torikaze",
+    "nickname": "Daughter of Seiryu's Blacksmith",
+    "note": "",
+    "profile": "Daughter of Seiryu's blacksmith clan, raised on\nmischief and the sword. Fierce, but kind at heart."
+  },
+  {
+    "id": 26,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "SF_Actor1",
+    "classId": 23,
+    "equips": [
+      9,
+      6,
+      18,
+      9
+    ],
+    "faceIndex": 0,
+    "faceName": "SF_Actor1",
+    "traits": [],
+    "initialLevel": 25,
+    "maxLevel": 99,
+    "name": "Mahari",
+    "nickname": "Son of Seiryu's Farmer",
+    "note": "",
+    "profile": "A boy of Seiryu's farming clan, handy at everything\nsince childhood; friends with the village's brats."
+  },
+  {
+    "id": 27,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 28,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 29,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 30,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "3syuzinkouwalk",
+    "classId": 30,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "3syuzinkou",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Aldon",
+    "nickname": "Coal Miner",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 31,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "3otakiwalk",
+    "classId": 5,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "3otaki",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Otaki",
+    "nickname": "Lord of Seiryu",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 32,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "homuraWALK",
+    "classId": 4,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "homuraFACE",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Homura",
+    "nickname": "Prince of Flame",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 33,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "Nature",
+    "classId": 3,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "Nature",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Pipin",
+    "nickname": "Ninja Dog",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 34,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 35,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 36,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 37,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 38,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 39,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 40,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  }
+]

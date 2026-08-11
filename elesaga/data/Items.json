@@ -1,0 +1,1867 @@
+[
+  null,
+  {
+    "id": 1,
+    "animationId": 41,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "An emergency salve made by blending several plants\nwith medicinal properties. The most widespread\nmedicine for treating wounds. Restores 500 HP.",
+    "effects": [
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 500
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 228,
+    "itypeId": 1,
+    "name": "Healing Herb",
+    "note": "",
+    "occasion": 0,
+    "price": 50,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 2,
+    "animationId": 41,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "A set of medical supplies issued to soldiers. Designed\nfor immediate use on the battlefield. Restores 1000 HP.",
+    "effects": [
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 1000
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 206,
+    "itypeId": 1,
+    "name": "Medical Kit",
+    "note": "",
+    "occasion": 0,
+    "price": 150,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 3,
+    "animationId": 42,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "A precious medicine made through specialized\nalchemy. Its ingredients are secret, and mass\nproduction is impossible. Restores 2000 HP.",
+    "effects": [
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 2000
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 176,
+    "itypeId": 1,
+    "name": "Heal Potion",
+    "note": "",
+    "occasion": 0,
+    "price": 400,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 4,
+    "animationId": 45,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "An antidote-and-eyedrops pill, a Seiryu specialty\nwith reliable efficacy, popular across the continent.",
+    "effects": [
+      {
+        "code": 22,
+        "dataId": 4,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 5,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 208,
+    "itypeId": 1,
+    "name": "Mankintan",
+    "note": "",
+    "occasion": 0,
+    "price": 100,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 5,
+    "animationId": 45,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "A draught that cures every status ailment except\npoison. A powerful restorative made through alchemy.",
+    "effects": [
+      {
+        "code": 22,
+        "dataId": 5,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 6,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 7,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 9,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 10,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 176,
+    "itypeId": 1,
+    "name": "Cure Potion",
+    "note": "",
+    "occasion": 0,
+    "price": 250,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 6,
+    "animationId": 45,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "An extremely strong liquor produced in Flame. It's\nonly served at festivals and rituals, because people\nsometimes die. Oddly enough, it cures deadly poison.",
+    "effects": [
+      {
+        "code": 22,
+        "dataId": 4,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 11,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 180,
+    "itypeId": 1,
+    "name": "Cobra Sake",
+    "note": "",
+    "occasion": 0,
+    "price": 200,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 7,
+    "animationId": 49,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 3,
+      "formula": "b.mhp / 2",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "A gem excavated only extremely rarely in\nSeiryu. Legend says praying while gripping\nit revives the dead. Revives one ally.",
+    "effects": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 300,
+    "itypeId": 1,
+    "name": "Dragon's Tear",
+    "note": "",
+    "occasion": 0,
+    "price": 1000,
+    "repeats": 1,
+    "scope": 9,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 8,
+    "animationId": 42,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "A draught dispelling fatigue and drowsiness\nwhile restoring vigor. Some whisper\nregular use is dangerous. Restores 500 EP.",
+    "effects": [
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 500
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 176,
+    "itypeId": 1,
+    "name": "Energy Potion",
+    "note": "",
+    "occasion": 0,
+    "price": 300,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 9,
+    "animationId": 49,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "b.mhp / 1",
+      "type": 3,
+      "variance": 20
+    },
+    "description": "A powerful restorative made through alchemy.\nInstantly revives one from stun or cardiac\narrest, though there are rumors of aftereffects...",
+    "effects": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 176,
+    "itypeId": 1,
+    "name": "Shock Potion",
+    "note": "",
+    "occasion": 0,
+    "price": 400,
+    "repeats": 1,
+    "scope": 9,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 10,
+    "animationId": 0,
+    "consumable": false,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "A strange book given by Gada, an antiquarian of Flame.\nThick, with a sturdy binding, and it looks rather new.",
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 4,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 186,
+    "itypeId": 2,
+    "name": "Rare Tome \"The Darkness Within Us\"",
+    "note": "",
+    "occasion": 2,
+    "price": 0,
+    "repeats": 1,
+    "scope": 0,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 11,
+    "animationId": 51,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "A mushroom consumed by Flame warriors before heading\ninto battle. Doubles attack power for 10 turns!!",
+    "effects": [
+      {
+        "code": 31,
+        "dataId": 2,
+        "value1": 10,
+        "value2": 0
+      },
+      {
+        "code": 21,
+        "dataId": 7,
+        "value1": 0.05,
+        "value2": 0
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 261,
+    "itypeId": 1,
+    "name": "Berserker Mushroom",
+    "note": "",
+    "occasion": 1,
+    "price": 200,
+    "repeats": 2,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 12,
+    "animationId": 41,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "A portable food unique to Seiryu.\nNutritious and easy to carry, and favored\nfor travel and war. Restores 500 HP.",
+    "effects": [
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 500
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 258,
+    "itypeId": 1,
+    "name": "Rice Ball",
+    "note": "",
+    "occasion": 0,
+    "price": 20,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 13,
+    "animationId": 0,
+    "consumable": false,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "Fur, bones, horns, fangs, and more\ncollected from monsters — of middling\nquality. Town shops will buy them for 100G.",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 210,
+    "itypeId": 1,
+    "name": "Common Monster Material",
+    "note": "",
+    "occasion": 3,
+    "price": 200,
+    "repeats": 1,
+    "scope": 0,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 14,
+    "animationId": 0,
+    "consumable": false,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "Fur, bones, horns, fangs, and more\ncollected from monsters — in good condition.\nTown shops will buy them for 300G.",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 210,
+    "itypeId": 1,
+    "name": "Fine Monster Material",
+    "note": "",
+    "occasion": 3,
+    "price": 600,
+    "repeats": 1,
+    "scope": 0,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 15,
+    "animationId": 0,
+    "consumable": false,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "Fur, bones, horns, fangs, and more\ncollected from monsters — of the precious\nkind. Town shops will buy them for 600G.",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 210,
+    "itypeId": 1,
+    "name": "Precious Monster Material",
+    "note": "",
+    "occasion": 3,
+    "price": 1200,
+    "repeats": 1,
+    "scope": 0,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 16,
+    "animationId": 0,
+    "consumable": false,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "Fur, bones, horns, fangs, and more\ncollected from monsters — of the highest\ngrade. Town shops will buy them for 1000G.",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 210,
+    "itypeId": 1,
+    "name": "Supreme Monster Material",
+    "note": "",
+    "occasion": 3,
+    "price": 2000,
+    "repeats": 1,
+    "scope": 0,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 17,
+    "animationId": 41,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "Bread made within Windam Castle, a\nstaple of the soldiers. Hard and dry,\nbut plenty nutritious. Restores 300 HP.",
+    "effects": [
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 300
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 266,
+    "itypeId": 1,
+    "name": "Hard Bread",
+    "note": "",
+    "occasion": 0,
+    "price": 25,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 18,
+    "animationId": 41,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "Delicious bread from the famous bakery of Windam Castle\nTown. Crisp outside, fluffy inside. Restores 800 HP.",
+    "effects": [
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 800
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 266,
+    "itypeId": 1,
+    "name": "Delicious Bread",
+    "note": "",
+    "occasion": 0,
+    "price": 60,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 19,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 20,
+    "animationId": 0,
+    "consumable": false,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "Gems, precious metals, and ornaments\ntaken from enemies — of decent quality.\nTown shops will buy them for 100G.",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 210,
+    "itypeId": 1,
+    "name": "A Little Treasure",
+    "note": "",
+    "occasion": 3,
+    "price": 200,
+    "repeats": 1,
+    "scope": 0,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 21,
+    "animationId": 0,
+    "consumable": false,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "Gems, precious metals, and ornaments\ntaken from enemies — in good condition.\nTown shops will buy them for 300G.",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 210,
+    "itypeId": 1,
+    "name": "A Good Treasure",
+    "note": "",
+    "occasion": 3,
+    "price": 600,
+    "repeats": 1,
+    "scope": 0,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 22,
+    "animationId": 0,
+    "consumable": false,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "Gems, precious metals, and ornaments\ntaken from enemies — of the expensive\nkind. Town shops will buy them for 600G.",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 210,
+    "itypeId": 1,
+    "name": "A Fine Treasure",
+    "note": "",
+    "occasion": 3,
+    "price": 1200,
+    "repeats": 1,
+    "scope": 0,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 23,
+    "animationId": 0,
+    "consumable": false,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "Gems, precious metals, and ornaments\ntaken from enemies — of the highest\ngrade. Town shops will buy them for 1000G.",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 210,
+    "itypeId": 1,
+    "name": "A Great Treasure",
+    "note": "",
+    "occasion": 3,
+    "price": 2000,
+    "repeats": 1,
+    "scope": 0,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 24,
+    "animationId": 0,
+    "consumable": false,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "Gems, precious metals, and ornaments\ntaken from enemies — of legendary quality.\nTown shops will buy them for 100000G.",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 210,
+    "itypeId": 1,
+    "name": "An Awesome Treasure",
+    "note": "",
+    "occasion": 3,
+    "price": 200000,
+    "repeats": 1,
+    "scope": 0,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 25,
+    "animationId": 0,
+    "consumable": false,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "Holding this allows entry into the Flame\nKingdom. A gift from the king to Win.",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 188,
+    "itypeId": 2,
+    "name": "Southern Passage Permit",
+    "note": "",
+    "occasion": 3,
+    "price": 0,
+    "repeats": 1,
+    "scope": 0,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 26,
+    "animationId": 41,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "A sweet food made in the Flame Kingdom. Some kind\nof fruit, dried and preserved. Restores 300 HP.",
+    "effects": [
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 300
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 265,
+    "itypeId": 1,
+    "name": "Dried Fruit",
+    "note": "",
+    "occasion": 0,
+    "price": 15,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 27,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "A glowing, mysterious stone that grants power\nwhen clutched. Using it raises attack by 5.",
+    "effects": [
+      {
+        "code": 42,
+        "dataId": 2,
+        "value1": 5,
+        "value2": 0
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 162,
+    "itypeId": 1,
+    "name": "Power Element",
+    "note": "",
+    "occasion": 2,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 28,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "A glowing, mysterious stone that grants power\nwhen clutched. Using it raises defense by 5.",
+    "effects": [
+      {
+        "code": 42,
+        "dataId": 3,
+        "value1": 5,
+        "value2": 0
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 165,
+    "itypeId": 1,
+    "name": "Guard Element",
+    "note": "",
+    "occasion": 2,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 29,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "A glowing, mysterious stone that grants power\nwhen clutched. Using it raises agility by 5.",
+    "effects": [
+      {
+        "code": 42,
+        "dataId": 6,
+        "value1": 5,
+        "value2": 0
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 164,
+    "itypeId": 1,
+    "name": "Swiftness Element",
+    "note": "",
+    "occasion": 2,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 30,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "A glowing, mysterious stone that grants power\nwhen clutched. Using it raises magic attack by 5.",
+    "effects": [
+      {
+        "code": 42,
+        "dataId": 4,
+        "value1": 5,
+        "value2": 0
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 162,
+    "itypeId": 1,
+    "name": "Magic Element",
+    "note": "",
+    "occasion": 2,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 31,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "A glowing, mysterious stone that grants power\nwhen clutched. Using it raises magic defense by 5.",
+    "effects": [
+      {
+        "code": 42,
+        "dataId": 5,
+        "value1": 5,
+        "value2": 0
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 165,
+    "itypeId": 1,
+    "name": "Mind Element",
+    "note": "",
+    "occasion": 2,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 32,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "A glowing, mysterious stone that grants power\nwhen clutched. Using it raises Max HP by 200.",
+    "effects": [
+      {
+        "code": 42,
+        "dataId": 0,
+        "value1": 200,
+        "value2": 0
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 165,
+    "itypeId": 1,
+    "name": "Life Element",
+    "note": "",
+    "occasion": 2,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 33,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "A glowing, mysterious stone that grants power\nwhen clutched. Using it raises Max EP by 50.",
+    "effects": [
+      {
+        "code": 42,
+        "dataId": 1,
+        "value1": 50,
+        "value2": 0
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 164,
+    "itypeId": 1,
+    "name": "Vigor Element",
+    "note": "",
+    "occasion": 2,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 34,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "A glowing, mysterious stone that\ngrants power when clutched. Using it\nraises agility by 5 and Max EP by 50.",
+    "effects": [
+      {
+        "code": 42,
+        "dataId": 1,
+        "value1": 50,
+        "value2": 0
+      },
+      {
+        "code": 42,
+        "dataId": 6,
+        "value1": 5,
+        "value2": 0
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 164,
+    "itypeId": 1,
+    "name": "Wind Element",
+    "note": "",
+    "occasion": 2,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 35,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "A glowing, mysterious stone that grants\npower when clutched. Using it raises\nattack by 5 and magic attack by 5.",
+    "effects": [
+      {
+        "code": 42,
+        "dataId": 2,
+        "value1": 5,
+        "value2": 0
+      },
+      {
+        "code": 42,
+        "dataId": 4,
+        "value1": 5,
+        "value2": 0
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 162,
+    "itypeId": 1,
+    "name": "Fire Element",
+    "note": "",
+    "occasion": 2,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 36,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "A glowing, mysterious stone that grants\npower when clutched. Using it raises\nMax HP by 200 and magic defense by 5.",
+    "effects": [
+      {
+        "code": 42,
+        "dataId": 0,
+        "value1": 200,
+        "value2": 0
+      },
+      {
+        "code": 42,
+        "dataId": 5,
+        "value1": 5,
+        "value2": 0
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 165,
+    "itypeId": 1,
+    "name": "Water Element",
+    "note": "",
+    "occasion": 2,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 37,
+    "animationId": 41,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "The evolved form of the rice ball.\nNutritious and easy to carry, and favored\nfor travel and war. Restores 1200 HP.",
+    "effects": [
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 1200
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 258,
+    "itypeId": 1,
+    "name": "Onigiri",
+    "note": "",
+    "occasion": 0,
+    "price": 100,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 38,
+    "animationId": 41,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "A set of medical supplies issued to soldiers. Designed\nfor immediate use on the battlefield. Restores 1500 HP.",
+    "effects": [
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 1500
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 206,
+    "itypeId": 1,
+    "name": "Premium Medical Kit",
+    "note": "",
+    "occasion": 0,
+    "price": 200,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 39,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 40,
+    "animationId": 0,
+    "consumable": false,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "Fur, bones, horns, fangs, and more\ncollected from monsters — of the highest\ngrade. Town shops will buy them for 3000G.",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 210,
+    "itypeId": 1,
+    "name": "Ultimate Monster Material",
+    "note": "",
+    "occasion": 3,
+    "price": 6000,
+    "repeats": 1,
+    "scope": 0,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 41,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "A glowing, mysterious stone that grants power\nwhen clutched. Using it raises all abilities.",
+    "effects": [
+      {
+        "code": 42,
+        "dataId": 1,
+        "value1": 50,
+        "value2": 0
+      },
+      {
+        "code": 42,
+        "dataId": 6,
+        "value1": 5,
+        "value2": 0
+      },
+      {
+        "code": 42,
+        "dataId": 0,
+        "value1": 200,
+        "value2": 0
+      },
+      {
+        "code": 42,
+        "dataId": 3,
+        "value1": 5,
+        "value2": 0
+      },
+      {
+        "code": 42,
+        "dataId": 2,
+        "value1": 5,
+        "value2": 0
+      },
+      {
+        "code": 42,
+        "dataId": 4,
+        "value1": 5,
+        "value2": 0
+      },
+      {
+        "code": 42,
+        "dataId": 5,
+        "value1": 5,
+        "value2": 0
+      },
+      {
+        "code": 42,
+        "dataId": 7,
+        "value1": 10,
+        "value2": 0
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 161,
+    "itypeId": 1,
+    "name": "Dark Element",
+    "note": "",
+    "occasion": 2,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 42,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 43,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 44,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 45,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 46,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 47,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 48,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 49,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 50,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 51,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 52,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 53,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 54,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 55,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 56,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 57,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 58,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 59,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 60,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  }
+]

@@ -1,0 +1,2893 @@
+[
+  null,
+  {
+    "id": 1,
+    "animationId": 121,
+    "description": "A straight sword of forged iron. A\nmass-produced model widely used in Windam.\n1 skill slot. Equippable by Win and Pipin.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 43,
+        "dataId": 11,
+        "value": 1
+      }
+    ],
+    "iconIndex": 97,
+    "name": "Short Sword",
+    "note": "",
+    "params": [
+      0,
+      0,
+      35,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 300,
+    "wtypeId": 3
+  },
+  {
+    "id": 2,
+    "animationId": 121,
+    "description": "A straight sword of forged iron. A\nmass-produced model widely used in Windam.\n2 skill slots. Equippable by Win and Pipin.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 43,
+        "dataId": 39,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 11,
+        "value": 1
+      }
+    ],
+    "iconIndex": 97,
+    "name": "Short Sword (Fine)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      48,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 1000,
+    "wtypeId": 3
+  },
+  {
+    "id": 3,
+    "animationId": 122,
+    "description": "A straight sword of forged iron. A\nmass-produced model widely used in Windam.\n2 skill slots. Equippable by Win and Pipin.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 43,
+        "dataId": 39,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 11,
+        "value": 1
+      }
+    ],
+    "iconIndex": 97,
+    "name": "Short Sword (Masterwork)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      63,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 1800,
+    "wtypeId": 3
+  },
+  {
+    "id": 4,
+    "animationId": 121,
+    "description": "A curved-blade sword produced in the\nFlame Kingdom. Slightly raises agility.\n1 skill slot. Equippable by Hono.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 43,
+        "dataId": 11,
+        "value": 1
+      }
+    ],
+    "iconIndex": 123,
+    "name": "Shamshir",
+    "note": "",
+    "params": [
+      0,
+      0,
+      40,
+      0,
+      0,
+      0,
+      6,
+      0
+    ],
+    "price": 700,
+    "wtypeId": 4
+  },
+  {
+    "id": 5,
+    "animationId": 121,
+    "description": "A curved-blade sword produced in the\nFlame Kingdom. Slightly raises agility.\n2 skill slots. Equippable by Hono.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 43,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 40,
+        "value": 1
+      }
+    ],
+    "iconIndex": 123,
+    "name": "Shamshir (Fine)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      54,
+      0,
+      0,
+      0,
+      6,
+      0
+    ],
+    "price": 1500,
+    "wtypeId": 4
+  },
+  {
+    "id": 6,
+    "animationId": 122,
+    "description": "A curved-blade sword produced in the\nFlame Kingdom. Slightly raises agility.\n2 skill slots. Equippable by Hono.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 43,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 40,
+        "value": 1
+      }
+    ],
+    "iconIndex": 123,
+    "name": "Shamshir (Masterwork)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      60,
+      0,
+      0,
+      0,
+      9,
+      0
+    ],
+    "price": 2400,
+    "wtypeId": 4
+  },
+  {
+    "id": 7,
+    "animationId": 123,
+    "description": "A sharp, beautiful blade produced in Seiryu. Lowers\nagility but has high power. Occasionally counterattacks\nunharmed. 1 skill slot. Equipped by Nagare.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 6,
+        "value": 0.05
+      },
+      {
+        "code": 43,
+        "dataId": 21,
+        "value": 1
+      }
+    ],
+    "iconIndex": 120,
+    "name": "Wakizashi",
+    "note": "",
+    "params": [
+      0,
+      0,
+      58,
+      0,
+      0,
+      0,
+      -3,
+      0
+    ],
+    "price": 1200,
+    "wtypeId": 6
+  },
+  {
+    "id": 8,
+    "animationId": 123,
+    "description": "A sharp, beautiful blade produced in Seiryu. Lowers\nagility but has high power. Occasionally counterattacks\nunharmed. 2 skill slots. Equipped by Nagare.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 6,
+        "value": 0.06
+      },
+      {
+        "code": 43,
+        "dataId": 21,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 39,
+        "value": 1
+      }
+    ],
+    "iconIndex": 120,
+    "name": "Wakizashi (Fine)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      72,
+      0,
+      0,
+      0,
+      -4,
+      0
+    ],
+    "price": 2000,
+    "wtypeId": 6
+  },
+  {
+    "id": 9,
+    "animationId": 124,
+    "description": "A sharp, beautiful blade produced in Seiryu. Lowers\nagility but has high power. Occasionally counterattacks\nunharmed. 2 skill slots. Equipped by Nagare.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 6,
+        "value": 0.07
+      },
+      {
+        "code": 43,
+        "dataId": 21,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 39,
+        "value": 1
+      }
+    ],
+    "iconIndex": 120,
+    "name": "Wakizashi (Great)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      84,
+      0,
+      0,
+      0,
+      -5,
+      0
+    ],
+    "price": 3000,
+    "wtypeId": 6
+  },
+  {
+    "id": 10,
+    "animationId": 125,
+    "description": "A dagger for self-defense. Greatly raises\ncritical rate and agility. 1 skill\nslot. Equippable by Win, Hono and Pipin.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 43,
+        "dataId": 12,
+        "value": 1
+      }
+    ],
+    "iconIndex": 96,
+    "name": "Dagger",
+    "note": "",
+    "params": [
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      15,
+      0
+    ],
+    "price": 200,
+    "wtypeId": 1
+  },
+  {
+    "id": 11,
+    "animationId": 125,
+    "description": "A dagger for self-defense. Greatly raises\ncritical rate and agility. 1 skill\nslot. Equippable by Win, Hono and Pipin.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 43,
+        "dataId": 12,
+        "value": 1
+      }
+    ],
+    "iconIndex": 96,
+    "name": "Dagger (Fine)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      32,
+      0,
+      0,
+      0,
+      15,
+      0
+    ],
+    "price": 750,
+    "wtypeId": 1
+  },
+  {
+    "id": 12,
+    "animationId": 126,
+    "description": "A dagger for self-defense. Greatly raises\ncritical rate and agility. 2 skill\nslots. Equippable by Win, Hono and Pipin.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 43,
+        "dataId": 12,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 29,
+        "value": 1
+      }
+    ],
+    "iconIndex": 96,
+    "name": "Dagger (Masterwork)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      45,
+      0,
+      0,
+      0,
+      20,
+      0
+    ],
+    "price": 1500,
+    "wtypeId": 1
+  },
+  {
+    "id": 13,
+    "animationId": 125,
+    "description": "A slender sword specialized solely for\nstriking enemy vitals. Raises critical\nrate. 1 skill slot. Equippable by Win.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.12
+      },
+      {
+        "code": 43,
+        "dataId": 12,
+        "value": 1
+      }
+    ],
+    "iconIndex": 97,
+    "name": "Rapier",
+    "note": "",
+    "params": [
+      0,
+      0,
+      30,
+      0,
+      0,
+      0,
+      9,
+      0
+    ],
+    "price": 350,
+    "wtypeId": 2
+  },
+  {
+    "id": 14,
+    "animationId": 125,
+    "description": "A slender sword specialized solely for\nstriking enemy vitals. Raises critical\nrate. 2 skill slots. Equippable by Win.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.12
+      },
+      {
+        "code": 43,
+        "dataId": 12,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 29,
+        "value": 1
+      }
+    ],
+    "iconIndex": 97,
+    "name": "Rapier (Fine)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      42,
+      0,
+      0,
+      0,
+      10,
+      0
+    ],
+    "price": 1200,
+    "wtypeId": 2
+  },
+  {
+    "id": 15,
+    "animationId": 126,
+    "description": "A slender sword specialized solely for\nstriking enemy vitals. Raises critical\nrate. 2 skill slots. Equippable by Win.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.12
+      },
+      {
+        "code": 43,
+        "dataId": 12,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 29,
+        "value": 1
+      }
+    ],
+    "iconIndex": 97,
+    "name": "Rapier (Masterwork)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      54,
+      0,
+      0,
+      0,
+      11,
+      0
+    ],
+    "price": 2300,
+    "wtypeId": 2
+  },
+  {
+    "id": 16,
+    "animationId": 127,
+    "description": "Strikes vitals from a distance. Lowers agility but\nraises critical rate. 1 skill slot. Equippable by Win.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.12
+      },
+      {
+        "code": 43,
+        "dataId": 20,
+        "value": 1
+      }
+    ],
+    "iconIndex": 107,
+    "name": "Spear",
+    "note": "",
+    "params": [
+      0,
+      0,
+      40,
+      0,
+      0,
+      0,
+      -3,
+      0
+    ],
+    "price": 400,
+    "wtypeId": 12
+  },
+  {
+    "id": 17,
+    "animationId": 127,
+    "description": "Strikes vitals from a distance. Lowers agility but\nraises critical rate. 2 skill slots. Equippable by Win.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.12
+      },
+      {
+        "code": 43,
+        "dataId": 20,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 28,
+        "value": 1
+      }
+    ],
+    "iconIndex": 107,
+    "name": "Spear (Fine)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      54,
+      0,
+      0,
+      0,
+      -3,
+      0
+    ],
+    "price": 1200,
+    "wtypeId": 12
+  },
+  {
+    "id": 18,
+    "animationId": 128,
+    "description": "Strikes vitals from a distance. Lowers agility but\nraises critical rate. 2 skill slots. Equippable by Win.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.12
+      },
+      {
+        "code": 43,
+        "dataId": 20,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 28,
+        "value": 1
+      }
+    ],
+    "iconIndex": 107,
+    "name": "Spear (Masterwork)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      70,
+      0,
+      0,
+      0,
+      -4,
+      0
+    ],
+    "price": 2200,
+    "wtypeId": 12
+  },
+  {
+    "id": 19,
+    "animationId": 129,
+    "description": "A massive blade. More for bludgeoning than\ncutting. Powerful, but greatly lowers agility\nand hit rate. 1 skill slot. Equipped by Hono.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": -0.08
+      },
+      {
+        "code": 43,
+        "dataId": 22,
+        "value": 1
+      }
+    ],
+    "iconIndex": 97,
+    "name": "Bastard Sword",
+    "note": "",
+    "params": [
+      0,
+      0,
+      67,
+      0,
+      0,
+      0,
+      -8,
+      0
+    ],
+    "price": 1000,
+    "wtypeId": 5
+  },
+  {
+    "id": 20,
+    "animationId": 129,
+    "description": "A massive blade. More for bludgeoning than\ncutting. Powerful, but greatly lowers agility\nand hit rate. 1 skill slot. Equipped by Hono.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": -0.08
+      },
+      {
+        "code": 43,
+        "dataId": 22,
+        "value": 1
+      }
+    ],
+    "iconIndex": 97,
+    "name": "Bastard Sword (Fine)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      86,
+      0,
+      0,
+      0,
+      -10,
+      0
+    ],
+    "price": 2400,
+    "wtypeId": 5
+  },
+  {
+    "id": 21,
+    "animationId": 130,
+    "description": "A massive blade. More for bludgeoning than\ncutting. Powerful, but greatly lowers agility\nand hit rate. 2 skill slots. Equipped by Hono.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": -0.08
+      },
+      {
+        "code": 43,
+        "dataId": 22,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 11,
+        "value": 1
+      }
+    ],
+    "iconIndex": 97,
+    "name": "Bastard Sword (Masterwork)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      118,
+      0,
+      0,
+      0,
+      -15,
+      0
+    ],
+    "price": 3500,
+    "wtypeId": 5
+  },
+  {
+    "id": 22,
+    "animationId": 122,
+    "description": "Used by gladiators of old. The wide\nblade deflects enemy attacks and raises\nevasion. 3 skill slots. Equippable by Win.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.05
+      },
+      {
+        "code": 43,
+        "dataId": 39,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 90,
+        "value": 1
+      }
+    ],
+    "iconIndex": 97,
+    "name": "Gladius",
+    "note": "",
+    "params": [
+      0,
+      0,
+      60,
+      5,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 2500,
+    "wtypeId": 3
+  },
+  {
+    "id": 23,
+    "animationId": 122,
+    "description": "A treasured sword passed down through the\nkings of the Flame Kingdom. Rarely reflects\nmagic. 3 skill slots. Equippable by Hono.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 5,
+        "value": 0.1
+      },
+      {
+        "code": 43,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 40,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 94,
+        "value": 1
+      }
+    ],
+    "iconIndex": 123,
+    "name": "Zomolod Negal",
+    "note": "",
+    "params": [
+      0,
+      0,
+      59,
+      0,
+      0,
+      0,
+      10,
+      0
+    ],
+    "price": 3000,
+    "wtypeId": 4
+  },
+  {
+    "id": 24,
+    "animationId": 124,
+    "description": "A wonderfully beautiful, sturdy blade unseen\nin Seiryu. About the size of a wakizashi.\nRaises critical rate. 3 skill slots. For Nagare.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.04
+      },
+      {
+        "code": 22,
+        "dataId": 6,
+        "value": 0.05
+      },
+      {
+        "code": 43,
+        "dataId": 21,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 39,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 96,
+        "value": 1
+      }
+    ],
+    "iconIndex": 120,
+    "name": "Nikkari Aoe",
+    "note": "",
+    "params": [
+      0,
+      0,
+      80,
+      0,
+      0,
+      0,
+      -3,
+      0
+    ],
+    "price": 3000,
+    "wtypeId": 6
+  },
+  {
+    "id": 25,
+    "animationId": 126,
+    "description": "A defensive dagger of unusual shape. Occasionally\ncounterattacks against enemy attacks. 3\nskill slots. Equippable by Win and Hono.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.12
+      },
+      {
+        "code": 22,
+        "dataId": 6,
+        "value": 0.25
+      },
+      {
+        "code": 43,
+        "dataId": 12,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 29,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 91,
+        "value": 1
+      }
+    ],
+    "iconIndex": 96,
+    "name": "Main Gauche",
+    "note": "",
+    "params": [
+      0,
+      0,
+      42,
+      5,
+      0,
+      0,
+      15,
+      0
+    ],
+    "price": 2300,
+    "wtypeId": 1
+  },
+  {
+    "id": 26,
+    "animationId": 126,
+    "description": "A sharp, sturdy rapier gifted by a master smith to\nRoi, called a genius knight. A famous blade, but\nvery hard to handle. 3 skill slots. Equipped by Win.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.12
+      },
+      {
+        "code": 43,
+        "dataId": 12,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 29,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 92,
+        "value": 1
+      }
+    ],
+    "iconIndex": 97,
+    "name": "Roi Special",
+    "note": "",
+    "params": [
+      0,
+      0,
+      52,
+      0,
+      0,
+      0,
+      10,
+      0
+    ],
+    "price": 2800,
+    "wtypeId": 2
+  },
+  {
+    "id": 27,
+    "animationId": 128,
+    "description": "A great spear passed down in the Saxon family. Greatly\nraises critical rate. 3 skill slots. Equippable by Win.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.13
+      },
+      {
+        "code": 43,
+        "dataId": 20,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 28,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 93,
+        "value": 1
+      }
+    ],
+    "iconIndex": 107,
+    "name": "Tonbogiri",
+    "note": "",
+    "params": [
+      0,
+      0,
+      85,
+      0,
+      0,
+      0,
+      -15,
+      0
+    ],
+    "price": 2200,
+    "wtypeId": 12
+  },
+  {
+    "id": 28,
+    "animationId": 130,
+    "description": "An unbelievably enormous great sword. Its\nblows are devastating, but hit rate drops\ndrastically. 3 skill slots. Equipped by Hono.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": -0.18
+      },
+      {
+        "code": 43,
+        "dataId": 22,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 28,
+        "value": 1
+      }
+    ],
+    "iconIndex": 97,
+    "name": "Zweihander",
+    "note": "",
+    "params": [
+      0,
+      0,
+      134,
+      0,
+      0,
+      0,
+      -20,
+      0
+    ],
+    "price": 4000,
+    "wtypeId": 5
+  },
+  {
+    "id": 29,
+    "animationId": 122,
+    "description": "A straight sword of forged iron. A mass-produced\nmodel widely used as gear for low-ranking soldiers\nand for merchants' self-defense. 2 skill slots.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 43,
+        "dataId": 39,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 69,
+        "value": 1
+      },
+      {
+        "code": 44,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 71,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 69,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 71,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 69,
+        "value": 1
+      }
+    ],
+    "iconIndex": 97,
+    "name": "Short Sword (Pipin)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      80,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 1800,
+    "wtypeId": 3
+  },
+  {
+    "id": 30,
+    "animationId": 124,
+    "description": "An odachi made to make the most of Swallow Reversal.\nGreatly lowers agility, raises counter and\ncritical rates. 3 skill slots. Equipped by Nagare.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.04
+      },
+      {
+        "code": 22,
+        "dataId": 6,
+        "value": 0.05
+      },
+      {
+        "code": 43,
+        "dataId": 21,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 39,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 95,
+        "value": 1
+      }
+    ],
+    "iconIndex": 120,
+    "name": "Clothes Pole",
+    "note": "",
+    "params": [
+      0,
+      0,
+      108,
+      0,
+      0,
+      0,
+      -12,
+      0
+    ],
+    "price": 3000,
+    "wtypeId": 6
+  },
+  {
+    "id": 31,
+    "animationId": 122,
+    "description": "A straight sword of forged iron. Pipin has\ntreasured it for years. From material to\nforging, a cut above the ordinary. 5 skill slots.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 43,
+        "dataId": 39,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 128,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 127,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 129,
+        "value": 1
+      }
+    ],
+    "iconIndex": 97,
+    "name": "Short Sword (Ultimate)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      77,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 8000,
+    "wtypeId": 3
+  },
+  {
+    "id": 32,
+    "animationId": 122,
+    "description": "A straight sword of forged iron. Long and\nbroad, so it's hard to handle. No problem for a\nbattle-hardened knight. 3 skill slots. Equipped by Win.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 43,
+        "dataId": 39,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 90,
+        "value": 1
+      }
+    ],
+    "iconIndex": 97,
+    "name": "Long Sword (Masterwork)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      85,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 5000,
+    "wtypeId": 3
+  },
+  {
+    "id": 33,
+    "animationId": 122,
+    "description": "A curved-blade sword produced in the\nFlame Kingdom. Slightly raises agility.\n3 skill slots. Equippable by Hono.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 43,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 40,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 94,
+        "value": 1
+      }
+    ],
+    "iconIndex": 123,
+    "name": "Shamshir (Master's)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      74,
+      0,
+      0,
+      0,
+      12,
+      0
+    ],
+    "price": 5300,
+    "wtypeId": 4
+  },
+  {
+    "id": 34,
+    "animationId": 124,
+    "description": "A blade longer and heavier than a wakizashi. High\npower but lowers agility. Counterattacks unharmed\nat times. 3 skill slots. Equipped by Nagare.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 6,
+        "value": 0.08
+      },
+      {
+        "code": 43,
+        "dataId": 21,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 39,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 95,
+        "value": 1
+      }
+    ],
+    "iconIndex": 120,
+    "name": "Uchigatana (Great)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      104,
+      0,
+      0,
+      0,
+      -5,
+      0
+    ],
+    "price": 5500,
+    "wtypeId": 6
+  },
+  {
+    "id": 35,
+    "animationId": 126,
+    "description": "A dagger for self-defense. Greatly\nraises critical rate and agility. 3\nskill slots. Equippable by Win and Hono.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.24
+      },
+      {
+        "code": 43,
+        "dataId": 12,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 29,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 92,
+        "value": 1
+      }
+    ],
+    "iconIndex": 96,
+    "name": "Dagger (Master's)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      60,
+      0,
+      0,
+      0,
+      25,
+      0
+    ],
+    "price": 3300,
+    "wtypeId": 1
+  },
+  {
+    "id": 36,
+    "animationId": 126,
+    "description": "A slender sword specialized solely for\nstriking enemy vitals. Raises critical\nrate. 3 skill slots. Equippable by Win.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.06
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.14
+      },
+      {
+        "code": 43,
+        "dataId": 12,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 29,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 92,
+        "value": 1
+      }
+    ],
+    "iconIndex": 97,
+    "name": "Rapier (Master's)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      70,
+      0,
+      0,
+      0,
+      12,
+      0
+    ],
+    "price": 5000,
+    "wtypeId": 2
+  },
+  {
+    "id": 37,
+    "animationId": 128,
+    "description": "Strikes vitals from a distance. Lowers agility but\nraises critical rate. 3 skill slots. Equippable by Win.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.12
+      },
+      {
+        "code": 43,
+        "dataId": 26,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 28,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 93,
+        "value": 1
+      }
+    ],
+    "iconIndex": 107,
+    "name": "Spear (Master's)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      90,
+      0,
+      0,
+      0,
+      -6,
+      0
+    ],
+    "price": 4800,
+    "wtypeId": 12
+  },
+  {
+    "id": 38,
+    "animationId": 130,
+    "description": "A massive blade. More for bludgeoning than\ncutting. Powerful, but greatly lowers agility\nand hit rate. 3 skill slots. Equipped by Hono.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": -0.06
+      },
+      {
+        "code": 43,
+        "dataId": 22,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 28,
+        "value": 1
+      }
+    ],
+    "iconIndex": 97,
+    "name": "Great Sword (Masterwork)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      150,
+      0,
+      0,
+      0,
+      -20,
+      0
+    ],
+    "price": 6000,
+    "wtypeId": 5
+  },
+  {
+    "id": 39,
+    "animationId": 126,
+    "description": "A sharp, sturdy rapier gifted by a master smith to\nRoi, called a genius knight. A famous blade, but\nvery hard to handle. 3 skill slots. Equipped by Win.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.06
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.15
+      },
+      {
+        "code": 43,
+        "dataId": 12,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 29,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 92,
+        "value": 1
+      }
+    ],
+    "iconIndex": 97,
+    "name": "Roi Special (The Real Thing)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      80,
+      0,
+      0,
+      0,
+      5,
+      0
+    ],
+    "price": 6000,
+    "wtypeId": 2
+  },
+  {
+    "id": 40,
+    "animationId": 126,
+    "description": "A short sword made with Seiryu technology.\nA little large, but its handling is superb.\nA dagger anyone can equip. 3 skill slots.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.24
+      },
+      {
+        "code": 43,
+        "dataId": 12,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 29,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 92,
+        "value": 1
+      }
+    ],
+    "iconIndex": 96,
+    "name": "Toshiro",
+    "note": "",
+    "params": [
+      0,
+      0,
+      68,
+      0,
+      0,
+      0,
+      20,
+      0
+    ],
+    "price": 5000,
+    "wtypeId": 7
+  },
+  {
+    "id": 41,
+    "animationId": 122,
+    "description": "A straight sword of forged iron. Long and\nbroad, so it's hard to handle. No problem for a\nbattle-hardened knight. 3 skill slots. Equipped by Win.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 43,
+        "dataId": 39,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 90,
+        "value": 1
+      }
+    ],
+    "iconIndex": 97,
+    "name": "Long Sword (Master's)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      100,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 8000,
+    "wtypeId": 3
+  },
+  {
+    "id": 42,
+    "animationId": 122,
+    "description": "A treasured sword passed down through the\nkings of the Flame Kingdom. Rarely reflects\nmagic. 3 skill slots. Equippable by Hono.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 5,
+        "value": 0.1
+      },
+      {
+        "code": 43,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 40,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 94,
+        "value": 1
+      }
+    ],
+    "iconIndex": 123,
+    "name": "Zomolod Negal (The Real Thing)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      82,
+      0,
+      0,
+      0,
+      10,
+      0
+    ],
+    "price": 8000,
+    "wtypeId": 4
+  },
+  {
+    "id": 43,
+    "animationId": 124,
+    "description": "A wonderfully beautiful, sturdy blade unseen\nin Seiryu. About the size of a wakizashi.\nRaises critical rate. 3 skill slots. For Nagare.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.04
+      },
+      {
+        "code": 22,
+        "dataId": 6,
+        "value": 0.05
+      },
+      {
+        "code": 43,
+        "dataId": 21,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 39,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 96,
+        "value": 1
+      }
+    ],
+    "iconIndex": 120,
+    "name": "Honebami",
+    "note": "",
+    "params": [
+      0,
+      0,
+      100,
+      0,
+      0,
+      0,
+      -2,
+      0
+    ],
+    "price": 8000,
+    "wtypeId": 6
+  },
+  {
+    "id": 44,
+    "animationId": 128,
+    "description": "A great spear passed down in the Saxon family. Greatly\nraises critical rate. 3 skill slots. Equippable by Win.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.12
+      },
+      {
+        "code": 43,
+        "dataId": 20,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 28,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 93,
+        "value": 1
+      }
+    ],
+    "iconIndex": 107,
+    "name": "Tonbogiri (The Real Thing)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      112,
+      0,
+      0,
+      0,
+      -10,
+      0
+    ],
+    "price": 8000,
+    "wtypeId": 12
+  },
+  {
+    "id": 45,
+    "animationId": 130,
+    "description": "A massive blade. More for bludgeoning than\ncutting. Powerful, but greatly lowers agility\nand hit rate. 3 skill slots. Equipped by Hono.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": -0.06
+      },
+      {
+        "code": 43,
+        "dataId": 22,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 28,
+        "value": 1
+      }
+    ],
+    "iconIndex": 97,
+    "name": "Great Sword (Master's)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      170,
+      0,
+      0,
+      0,
+      -25,
+      0
+    ],
+    "price": 9500,
+    "wtypeId": 5
+  },
+  {
+    "id": 46,
+    "animationId": 124,
+    "description": "An odachi made to make the most of Swallow Reversal.\nGreatly lowers agility, raises counter and\ncritical rates. 3 skill slots. Equipped by Nagare.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.04
+      },
+      {
+        "code": 22,
+        "dataId": 6,
+        "value": 0.08
+      },
+      {
+        "code": 43,
+        "dataId": 21,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 39,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 95,
+        "value": 1
+      }
+    ],
+    "iconIndex": 120,
+    "name": "Aoe's Odachi",
+    "note": "",
+    "params": [
+      0,
+      0,
+      130,
+      0,
+      0,
+      0,
+      -15,
+      0
+    ],
+    "price": 9000,
+    "wtypeId": 6
+  },
+  {
+    "id": 47,
+    "animationId": 128,
+    "description": "A long spear imbued with the power of wind. Greatly\nraises critical rate. 5 skill slots. Equippable by Win.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.12
+      },
+      {
+        "code": 43,
+        "dataId": 20,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 28,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 164,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 92,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 93,
+        "value": 1
+      },
+      {
+        "code": 31,
+        "dataId": 4,
+        "value": 1
+      }
+    ],
+    "iconIndex": 107,
+    "name": "Wind Spear",
+    "note": "",
+    "params": [
+      0,
+      0,
+      136,
+      0,
+      10,
+      10,
+      -16,
+      0
+    ],
+    "price": 10000,
+    "wtypeId": 12
+  },
+  {
+    "id": 48,
+    "animationId": 124,
+    "description": "A blade imbued with the power of water.\nLowers agility, raises counter and critical\nrates. 5 skill slots. Equippable by Nagare.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.04
+      },
+      {
+        "code": 22,
+        "dataId": 6,
+        "value": 0.08
+      },
+      {
+        "code": 43,
+        "dataId": 165,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 21,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 39,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 96,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 95,
+        "value": 1
+      },
+      {
+        "code": 31,
+        "dataId": 3,
+        "value": 1
+      }
+    ],
+    "iconIndex": 120,
+    "name": "Murakumo",
+    "note": "",
+    "params": [
+      0,
+      0,
+      158,
+      0,
+      10,
+      10,
+      -8,
+      0
+    ],
+    "price": 12000,
+    "wtypeId": 6
+  },
+  {
+    "id": 49,
+    "animationId": 122,
+    "description": "A curved blade imbued with the power of\nflame. Raises agility and rarely reflects\nmagic. 5 skill slots. Equippable by Hono.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 5,
+        "value": 0.08
+      },
+      {
+        "code": 43,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 40,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 94,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 90,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 166,
+        "value": 1
+      },
+      {
+        "code": 31,
+        "dataId": 2,
+        "value": 1
+      }
+    ],
+    "iconIndex": 123,
+    "name": "Flame Tongue",
+    "note": "",
+    "params": [
+      0,
+      0,
+      110,
+      0,
+      10,
+      10,
+      10,
+      0
+    ],
+    "price": 10000,
+    "wtypeId": 4
+  },
+  {
+    "id": 50,
+    "animationId": 130,
+    "description": "A massive blade. More for bludgeoning than\ncutting. Powerful, but greatly lowers agility\nand hit rate. 6 skill slots. Equipped by Hono.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": -0.06
+      },
+      {
+        "code": 43,
+        "dataId": 22,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 28,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 93,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 166,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 90,
+        "value": 1
+      }
+    ],
+    "iconIndex": 97,
+    "name": "Dragon Buster",
+    "note": "",
+    "params": [
+      0,
+      0,
+      230,
+      0,
+      0,
+      0,
+      -45,
+      0
+    ],
+    "price": 10000,
+    "wtypeId": 5
+  },
+  {
+    "id": 51,
+    "animationId": 126,
+    "description": "A short sword made with Seiryu technology.\nA little large, but its handling is superb.\nA dagger anyone can equip. 5 skill slots.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.24
+      },
+      {
+        "code": 43,
+        "dataId": 12,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 29,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 92,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 94,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 91,
+        "value": 1
+      }
+    ],
+    "iconIndex": 96,
+    "name": "Toshiro (Great)",
+    "note": "",
+    "params": [
+      0,
+      0,
+      100,
+      0,
+      0,
+      0,
+      20,
+      0
+    ],
+    "price": 8000,
+    "wtypeId": 7
+  },
+  {
+    "id": 52,
+    "animationId": 124,
+    "description": "A wonderfully beautiful, sturdy blade unseen\nin Seiryu. About the size of a long wakizashi.\nRaises critical rate. 5 skill slots. For Nagare.",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.08
+      },
+      {
+        "code": 22,
+        "dataId": 6,
+        "value": 0.05
+      },
+      {
+        "code": 43,
+        "dataId": 21,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 39,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 96,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 95,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 11,
+        "value": 1
+      }
+    ],
+    "iconIndex": 120,
+    "name": "Murasame",
+    "note": "",
+    "params": [
+      0,
+      0,
+      150,
+      0,
+      0,
+      0,
+      -5,
+      0
+    ],
+    "price": 10000,
+    "wtypeId": 6
+  },
+  {
+    "id": 53,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 54,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 55,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 56,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 57,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 58,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 59,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 60,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0,
+    "wtypeId": 0
+  }
+]
